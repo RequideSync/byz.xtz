@@ -1,0 +1,5 @@
+local Games = {
+  [97777561575736] = "https://raw.githubusercontent.com/RequideSync/byz.xtz/refs/heads/main/Server1",
+}
+
+return Games
